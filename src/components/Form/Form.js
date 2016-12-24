@@ -6,6 +6,9 @@ class Form extends PureComponent {
       <div>
         Hai Rio
       </div>
+      <div>
+      um I have no idea what I'm doing but hi.
+      </div>
     )
   }
 }
